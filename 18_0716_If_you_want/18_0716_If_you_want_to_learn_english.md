@@ -10,7 +10,7 @@
    
      
 * that you shud be doin everyday.
-  - 슈ㄷ비  <-- 'ㄷ' 발음 넣어줘야 함.
+  - 슈ㄷ비  <-- 'ㄷ' 발음 넣어줘야 함.  #2 슈ㄷ (원래 발음기호가 /ʃʊd/ )
   - everyday  <-- '에' 강세 포인트 있음.
   
 * to help improve your english.
