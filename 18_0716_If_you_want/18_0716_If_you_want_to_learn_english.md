@@ -28,3 +28,11 @@
  !audio[001](https://github.com/brianrobo/English/blob/master/18_0716_If_you_want/18_0811_001.m4a)
  
  
+ * Here are six things that you should be doing everyday to help improve your English
+   - here are SIX things / that You Should be Doing EvriDei...
+   - EvriDei  <-- 발음연습 좀 할것.
+   - that 발음 가벼운 느낌으로함.
+   - toHelp-imProve yurr ENglish...    <-- 투헤어ㅍ인프   <---help와 improve가 바로 연이어 발음됨.
+   
+ !audio[001](https://github.com/brianrobo/English/blob/master/18_0716_If_you_want/18_0811_002.m4a)
+ 
