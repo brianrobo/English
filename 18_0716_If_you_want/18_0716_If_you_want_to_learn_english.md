@@ -36,3 +36,8 @@
    
  !audio[001](https://github.com/brianrobo/English/blob/master/18_0716_If_you_want/18_0811_002.m4a)
  
+ 
+ * number one
+   - /ˈnʌmbər/
+   - /wʌn/           <--- 이거 였구낭...
+ 
