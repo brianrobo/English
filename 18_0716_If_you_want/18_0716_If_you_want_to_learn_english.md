@@ -57,7 +57,11 @@
   - /oʊn/
   - /ˈlæŋɡwɪdʒ/    <-- 랭v그위dʒ
   
-  - I HIGhli RecomMend
+  - I HIGhli RecomMend         <--- RecomMend에서 R에 중간정도 암튼 강세가 느껴지게 발음함. (v레커~메엔ㄷ)
   - that you Riiid the Nusss
-  - 에,v스페셔,,,you may 오l,v레di - beFamilar
+  - 에,v스페셔,,,you-may 오l,v레di - beFamilar
   
+  - whatisHAppening  <--- 왓이스(둘이 붙이고) 바로 강세주면서 HAppening
+  - (보강) with(위스)-WhatisHAppening  <-- "위스" 발음하고, 바로 Whatis
+  - intheWorld  <-- 어려움... the 발은 제대로 혀 내밀지는 않으면서 뭍혀지는  거 같은데..('이너'인데 살짝 혀만 나오는 시늉하는듯.)
+  - INyurrOwnLanuguage  <-- 뭔가 수식인데 강조를 위해서,, IN에 강세를 준듯...
