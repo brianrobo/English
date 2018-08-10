@@ -41,3 +41,23 @@
    - /ˈnʌmbər/
    - /wʌn/           <--- 이거 였구낭...
  
+ * You should be reading
+   - /ˈridɪŋ/   <--- i발음 강하면서 좀 길게..
+
+* I highly recommend that you read the news especially because you may already be familar with what is happening in the world in your own language.
+  - /ˈhaɪli/
+  - /ˌrekəˈmend/
+  - /nuz/
+  - /ɪˈspeʃ(ə)li/    <-- 이,,,쉬v페셜리  <-- 처음을 약간, '에'로 발음하는듯
+  - /bɪˈkɔz/ ,  /bɪkəz/
+  - /ɔlˈredi/        <---- 발음 다시 잡아야함!!!
+  - /fəˈmɪljər/      <-- 퍼,,밀V려~
+  - /ˈhæpənɪŋ/
+  - /wɜrld/
+  - /oʊn/
+  - /ˈlæŋɡwɪdʒ/    <-- 랭v그위dʒ
+  
+  - I HIGhli RecomMend
+  - that you Riiid the Nusss
+  - 에,v스페셔,,,you may 오l,v레di - beFamilar
+  
