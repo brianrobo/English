@@ -18,3 +18,10 @@
   - imPRove yurr ENglish  <--- 
   
  !audio[001](https://github.com/brianrobo/English/blob/master/18_0716_If_you_want/18_0716_001.m4a)
+ 
+ ------------------------------------------------------------------------------------------------------
+ 
+ 
+ * Learning English takes time and practice.
+ 
+ 
