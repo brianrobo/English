@@ -34,7 +34,7 @@
    - that 발음 가벼운 느낌으로함.
    - toHelp-imProve yurr ENglish...    <-- 투헤어ㅍ인프   <---help와 improve가 바로 연이어 발음됨.
    
- !audio[001](https://github.com/brianrobo/English/blob/master/18_0716_If_you_want/18_0811_002.m4a)
+ !audio[002](https://github.com/brianrobo/English/blob/master/18_0716_If_you_want/18_0811_002.m4a)
  
  
  * number one
@@ -65,3 +65,6 @@
   - (보강) with(위스)-WhatisHAppening  <-- "위스" 발음하고, 바로 Whatis
   - intheWorld  <-- 어려움... the 발은 제대로 혀 내밀지는 않으면서 뭍혀지는  거 같은데..('이너'인데 살짝 혀만 나오는 시늉하는듯.)
   - INyurrOwnLanuguage  <-- 뭔가 수식인데 강조를 위해서,, IN에 강세를 준듯...
+  
+  !audio[002](https://github.com/brianrobo/English/blob/master/18_0716_If_you_want/18_0811_002.m4a)
+  
